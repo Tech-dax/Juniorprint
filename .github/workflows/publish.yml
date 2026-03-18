@@ -9,7 +9,10 @@ on:
 
 jobs:
   build-and-publish:
-    runs-on: ubuntu-latest  # facultatif, mais recommandé pour checkout
+    runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write   # <-- Ajout néces  # facultatif, mais recommandé pour checkout
 
     steps:
       - uses: actions/checkout@v3
