@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+juniorprint/__init__.py
+juniorprint/formatter.py
+juniorprint/printer.py
+juniorprint/styles.py
+juniorprint.egg-info/PKG-INFO
+juniorprint.egg-info/SOURCES.txt
+juniorprint.egg-info/dependency_links.txt
+juniorprint.egg-info/requires.txt
+juniorprint.egg-info/top_level.txt

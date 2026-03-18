@@ -1,0 +1,38 @@
+Metadata-Version: 2.4
+Name: juniorprint
+Version: 0.1.1
+Summary: Print colored text easily in Python
+Author-email: Hero <joscelynrandrianilaina@gmail.com>
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: colorama
+
+# juniorprint
+
+![PyPI](https://img.shields.io/pypi/v/juniorprint.svg)
+![Python Version](https://img.shields.io/pypi/pyversions/juniorprint.svg)
+![License](https://img.shields.io/pypi/l/juniorprint.svg)
+![Build](https://github.com/Tech-dax/juniorprint/actions/workflows/publish.yml/badge.svg)
+
+---
+
+## Overview
+
+`juniorprint` is a lightweight Python library that enhances printing with inline color and style formatting.
+
+It is:
+- Simple
+- Safe (no global override)
+- Compatible with standard Python
+- Lightweight
+
+---
+
+## Installation
+
+```bash
+pip install juniorprint
