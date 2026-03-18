@@ -10,6 +10,11 @@ on:
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write   # <-- Ajout nécessaire
+      contents: read   # facultatif, mais recommandé pour checkout
+
     steps:
       - uses: actions/checkout@v3
 
