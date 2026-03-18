@@ -3,7 +3,7 @@
 ![PyPI](https://img.shields.io/pypi/v/juniorprint.svg)
 ![Python Version](https://img.shields.io/pypi/pyversions/juniorprint.svg)
 ![License](https://img.shields.io/pypi/l/juniorprint.svg)
-![Build](https://github.com/ton-username/juniorprint/actions/workflows/publish.yml/badge.svg)
+![Build](https://github.com/Tech-dax/juniorprint/actions/workflows/publish.yml/badge.svg)
 
 ---
 

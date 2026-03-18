@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "juniorprint"
-version = "0.1.0"
+version = "0.1.1"
 description = "Print colored text easily in Python"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
-authors = [{name="Ton Nom", email="ton.email@example.com"}]
+authors = [{name="Hero", email="joscelynrandrianilaina@gmail.com"}]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
